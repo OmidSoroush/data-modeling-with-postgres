@@ -54,7 +54,7 @@ def main():
 
     - Drops all the tables.
 
-    - Creates all tables needed.
+    - Creates all tables required.
 
     - Finally, closes the connection.
     """
@@ -68,5 +68,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
